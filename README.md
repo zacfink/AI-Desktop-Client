@@ -1,9 +1,9 @@
 # AI-Desktop-Client
 
-# Windows
+# To Start
 
-<!-- https://microsoft.github.io/react-native-windows/docs/getting-started -->
+<!-- npm start -->
 
-# MacOS
+# To Test
 
-<!-- https://microsoft.github.io/react-native-windows/docs/rnm-getting-started -->
+<!-- npm test -->
